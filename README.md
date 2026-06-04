@@ -2,5 +2,8 @@
 sadly this doesnt bypass any encrption or OBF
 
 
+dumps Objs as of right now
+tested on HelloNieghbor Dumped everything successfully!
 
+this was made using my custom UE wrapper 
 Load your Lib and get dump from mobile phone
