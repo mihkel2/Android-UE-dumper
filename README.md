@@ -1,8 +1,17 @@
 # Android-UE-dumper
 sadly this doesnt bypass any encrption or OBF
+(if anything is stripped you will have to change the source code which will be public soon :)
 
 
-dumps Objs as of right now
+# Updated to dump everything
+
+
+also added way better dump format last update was just random gobject names xd
+
+
+
+
+
 tested on HelloNieghbor Dumped everything successfully!
 
 this was made using my custom UE wrapper 
